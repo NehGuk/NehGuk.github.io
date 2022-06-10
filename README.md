@@ -17,7 +17,7 @@ French writer Saint-Exupéry once wrote that "perfection is achieved, not when t
 
 ## Links
 
-- [Link to the portfolio website deployed via Github Pages](https://nehguk.github.io)
+- PRODUCT | [Link to this portfolio website deployed via Github Pages](https://nehguk.github.io)
 - [Mid-fidelity web prototype](https://xd.adobe.com/view/e2d92b52-cc56-495b-8761-4ab5536dd9e6-b78a/)
 
 ## Grade & Feedback from instructor
