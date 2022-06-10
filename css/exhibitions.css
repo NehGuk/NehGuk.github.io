@@ -1,0 +1,18 @@
+@import url(/css/imports/footer.css);
+@import url(/css/imports/global.css);
+@import url(/css/imports/nav.css);
+
+/* COVER */
+.cover {
+  background-image: url(/images/sp1-21.jpg);
+}
+
+/* SECTION ECOLOGY CTA */
+#ecology {
+  padding-bottom: 120px;
+}
+
+.exhibitions-cta {
+  display: flex;
+  justify-content: center;
+}

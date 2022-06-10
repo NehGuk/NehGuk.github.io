@@ -1,0 +1,37 @@
+@import url(/css/imports/footer.css);
+@import url(/css/imports/global.css);
+@import url(/css/imports/nav.css);
+
+/* COVER */
+.cover {
+  background-image: url(/images/sp1-1c.jpg);
+}
+
+.grid-item1 {
+  background: rgb(34, 55, 115, 0.9);
+  width: 70%;
+  margin: 0 auto;
+  /* background: var(--purple);
+  opacity: 70%; */
+}
+
+.grid-item1 p {
+  padding: 30px;
+}
+
+/* KIDS PAGE CTA */
+#school-holidays {
+  padding-bottom: 120px;
+}
+
+.for-kids-cta {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+@media(max-width: 1150px) {
+  .grid-item1 {
+    width: 100%;
+    
+}
