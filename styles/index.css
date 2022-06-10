@@ -106,12 +106,12 @@ body {
 }
 
 hr {
-    width: 11rem;
-    margin: 1rem auto;
+    width: 6.79rem;
+    margin: 2.58rem auto 1rem;
     height: .1rem;
     background: var(--light);
     border: none;
-    opacity: .6;
+    /* opacity: .6; */
     text-align: center;    
 }
 
@@ -231,7 +231,7 @@ footer {
     }
 
     hr {
-        width: 9rem;
+        width: 5.56rem;
     }
 }
 
