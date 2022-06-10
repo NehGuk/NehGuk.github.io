@@ -2,7 +2,7 @@
 
 ![image](/screenshot.png)
 
-Hello world! As a front-end development student, one of my tasks was to create a portfolio website. This is my initial attempt.
+Hello world! As a front-end development student, one of my assignments was to create a portfolio website. This is what I came up with.
 
 ## Description
 
@@ -17,8 +17,8 @@ French writer Saint-Exupéry once wrote that "perfection is achieved, not when t
 
 ## Links
 
-- PRODUCT | [Link to the website deployed via Github Pages](https://cranky-wing-1d6bb5.netlify.app/index.html)
-- [Mid-fidelity web prototype](https://xd.adobe.com/view/e2d92b52-cc56-495b-8761-4ab5536dd9e6-b78a/);
+- [Link to the portfolio website deployed via Github Pages](https://nehguk.github.io)
+- [Mid-fidelity web prototype](https://xd.adobe.com/view/e2d92b52-cc56-495b-8761-4ab5536dd9e6-b78a/)
 
 ## Grade & Feedback from instructor
 
@@ -36,7 +36,7 @@ Feel free to suggest improvements and open a pull request if you want to get inv
 ## Contact
 
 - [My LinkedIn page](https://www.linkedin.com/in/henri-kugler-78218422b/)
-- My personal portfolio (under construction)
+- [My personal portfolio](https://nehguk.github.io)
 
 ## Acknowledgments
 
