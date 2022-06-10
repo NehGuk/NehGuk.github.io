@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* COLOUR PALETTE */
+
+:root {
+    --dark1: #2C2F33;
+    --dark2: #303438;
+    --dark3: #35383D;
+    --light: #F2F2F2;
+    --green: #81C240;
+    --greensuper: #9CEB42;
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+/* TYPOGRAPHY */
+
+h1 {
+    font-family: calmetta, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: var(--light);
+    font-size: 2rem;
+}
+
+h2 {
+    font-family: mic-32-new-rounded-web, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: var(--light);
+}
+
+.regular-text {
+    font-family: mic-32-new-rounded-web, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: var(--light);
+    font-size: 1.2rem;
+    line-height: 2rem;
+}
+
+.regular-text--description {
+    font-family: mic-32-new-rounded-web, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: var(--light);
+    font-size: 1rem;
+
+}
+
+.small-text {
+    font-family: calmetta, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: var(--light);
+    font-size: 1rem;
+    opacity: .8;
+}
+
+.inline-link {
+    font-family: mic-32-new-rounded-web, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: var(--green);
+    font-size: 1.2rem;
+}
+
+.inline-link:hover {
+    transition: .4s ease;
+    color: var(--greensuper);
+    cursor: pointer;
+}
+
+.nav-text {
+    font-family: calmetta, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: var(--light);
+    font-size: .9rem;
+    text-transform: uppercase;
+}
+
+.nav-text:hover {
+    color: var(--green);
+    transition: .3s ease;
+    cursor: pointer;
+}
+
+.logo-text {
+    font-family: mic-32-new-rounded-web, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: var(--light);
+    font-size: 1.2rem;
+}
+
+.nav-logo p:hover {
+    transition: .4s ease;
+    color: var(--greensuper);
+}
+
+.logo-text--accent {
+    color: var(--green);
+}
+
+html {
+    background: var(--dark1);
+}
+
