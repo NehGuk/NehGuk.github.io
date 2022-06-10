@@ -1,11 +1,9 @@
 @import url(/styles/imports/global.css);
 @import url(/styles/imports/nav.css);
 
-
 /* MAIN GRID */
 body {
     display: grid;
-    /* grid-template-rows: repeat(4, 1fr); */
 }
 
 .home {
@@ -93,7 +91,27 @@ body {
 
 .project-grid--card {
     display: grid;
-    /* border: solid 1px yellow; */
+    /* background: var(--dark1); */
+    /* border: solid 1px var(--dark1); */
+    border-radius: .618rem;
+    width: 15rem;
+    margin: 0 auto;
+    padding: 1rem;    
+}
+
+.project-grid--card:hover {
+    background: var(--dark1);
+    transition: all .3s ease-out;
+}
+
+.project-grid--card:hover > div > img {
+    transform: scale(.97);
+    transition: all .3s ease-out;
+}
+
+.project-grid--card:hover > div > hr {
+    transform: scale(1.1);
+    transition: all .3s ease-out;
 }
 
 .project-grid--card--img  img {
@@ -104,6 +122,7 @@ body {
     object-fit: cover;
     border: var(--light) solid .2rem;
 }
+
 
 hr {
     width: 6.79rem;
@@ -138,7 +157,7 @@ hr {
 
 .project-grid--card--icons img {
     opacity: .8;
-    width: 2.5rem;
+    width: 1.59rem;
 }
 
 .project-grid--card--icons img:hover {
@@ -179,7 +198,7 @@ hr {
 }
 
 .tool-icons img {
-    height: 3rem;
+    height: 2.57rem;
     margin: 2rem 1rem 1rem;
 }
 
