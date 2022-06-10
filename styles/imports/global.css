@@ -75,12 +75,13 @@ h2 {
     font-style: normal;
     color: var(--green);
     font-size: 1.2rem;
+    transition: all .3s ease-out;
 }
 
 .inline-link:hover {
-    transition: .4s ease;
     color: var(--greensuper);
     cursor: pointer;
+    transition: all .3s ease-out;
 }
 
 .nav-text {
@@ -90,11 +91,13 @@ h2 {
     color: var(--light);
     font-size: .9rem;
     text-transform: uppercase;
+    padding: 2rem;
+    transition: all .3s ease-out;
 }
 
 .nav-text:hover {
     color: var(--green);
-    transition: .3s ease;
+    transition: all .3s ease-out;
     cursor: pointer;
 }
 
@@ -104,10 +107,11 @@ h2 {
     font-style: normal;
     color: var(--light);
     font-size: 1.2rem;
+    transition: all .3s ease-out;
 }
 
 .nav-logo p:hover {
-    transition: .4s ease;
+    transition: all .3s ease-out;
     color: var(--greensuper);
 }
 

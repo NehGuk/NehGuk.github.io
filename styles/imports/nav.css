@@ -22,14 +22,16 @@ nav {
 .nav-links {
     text-align: right;
     align-self: center;
+    
 }
 
 nav ul {
     list-style: none;
+    
 }
 nav li {
     display: inline-block;
-    padding: 0 1rem;    
+    padding: 0;
 }
 
 @media (max-width: 750px) {
@@ -39,10 +41,12 @@ nav li {
         grid-template-rows: 1fr;
         gap: 1rem;
         text-align: center;
+        z-index: 10;
     }
 
     .nav-logo {
         text-align: left;
+        
     }
 
     .hamburger-menu {
@@ -56,12 +60,29 @@ nav li {
 
     nav li {
         display: block;
-        padding: 1rem;        
+        padding: 1.5rem;
+        /* transition: all .3s ease-out; */
+        animation: menu .6s;
+        z-index: 10;
+    }
+
+    @keyframes menu {
+        0% {margin-top: -100%;
+            opacity: 0;
+            scale: .8;}
+        50% {opacity: 0;}
+        100% {margin-top: 0;
+            opacity: 1;
+            scale: 1;}
+
     }
 
     .nav-links {
         text-align: center;
         display: grid;
         grid-column: span 2;
+        z-index: 90;
     }
+
+    
 }

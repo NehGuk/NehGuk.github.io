@@ -6,7 +6,7 @@ Hello world! As a front-end development student, one of my assignments was to cr
 
 ## Description
 
-French writer Saint-Exupéry once wrote that "perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." I love this quote! It is my hope that most of my designs can reflect this idea: I want my projects to reflect a sense of minimalism, purposefulness and elegance.
+French writer Saint-Exupéry once wrote that "perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." I love this quote! It is my hope that most of my designs can reflect this idea: I want my projects to convey a sense of minimalism, purposefulness and elegance.
 
 ## Built with
 
@@ -40,4 +40,4 @@ Feel free to suggest improvements and open a pull request if you want to get inv
 
 ## Acknowledgments
 
-The portrait picture is of my own authorship.
+The portrait picture (this cute greater rhea) is of my own authorship. The crazy bird crossed my path in one of my trips to South America.
