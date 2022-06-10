@@ -97,6 +97,7 @@ body {
     width: 15rem;
     margin: 0 auto;
     padding: 1rem;    
+    transition: all .3s ease-out;
 }
 
 .project-grid--card:hover {
@@ -121,6 +122,8 @@ body {
     border-radius: 50%;
     object-fit: cover;
     border: var(--light) solid .2rem;
+    transition: all .3s ease-out;
+    
 }
 
 
@@ -132,6 +135,7 @@ hr {
     border: none;
     /* opacity: .6; */
     text-align: center;    
+    transition: all .3s ease-out;
 }
 
 .project-grid--card--title {
