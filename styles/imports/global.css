@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 
-
 /* COLOUR PALETTE */
 
 :root {
@@ -16,6 +15,8 @@
     --greensuper: #9CEB42;
     scroll-behavior: smooth;
 }
+
+/* GENERAL */
 
 a {
     text-decoration: none;
@@ -122,6 +123,8 @@ h2 {
 html {
     background: var(--dark1);
 }
+
+/* MEDIA QUERIES */
 
 @media (max-width: 750px) {
     .nav-text {

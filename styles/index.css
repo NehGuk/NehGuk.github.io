@@ -237,6 +237,7 @@ footer {
     100% {scale: .9}
 }
 
+/* MEDIA QUERIES */
 @media (max-width: 1000px) {
     .project-grid {
         width: 90%;

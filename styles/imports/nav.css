@@ -21,8 +21,7 @@ nav {
 
 .nav-links {
     text-align: right;
-    align-self: center;
-    
+    align-self: center;   
 }
 
 nav ul {
@@ -33,6 +32,8 @@ nav li {
     display: inline-block;
     padding: 0;
 }
+
+/* MEDIA QUERIES */
 
 @media (max-width: 750px) {
  
@@ -45,8 +46,7 @@ nav li {
     }
 
     .nav-logo {
-        text-align: left;
-        
+        text-align: left;   
     }
 
     .hamburger-menu {
@@ -74,7 +74,6 @@ nav li {
         100% {margin-top: 0;
             opacity: 1;
             scale: 1;}
-
     }
 
     .nav-links {
@@ -83,6 +82,4 @@ nav li {
         grid-column: span 2;
         z-index: 90;
     }
-
-    
 }
