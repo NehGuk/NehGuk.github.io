@@ -18,7 +18,7 @@ French writer Saint-Exupéry once wrote that "perfection is achieved, not when t
 ## Links
 
 - PRODUCT | [Link to the website deployed via Github Pages](https://cranky-wing-1d6bb5.netlify.app/index.html)
-- [Mid-fidelity web prototype](https://xd.adobe.com/view/b08399c0-a725-4348-ac92-9de243d70591-e5d0/);
+- [Mid-fidelity web prototype](https://xd.adobe.com/view/e2d92b52-cc56-495b-8761-4ab5536dd9e6-b78a/);
 
 ## Grade & Feedback from instructor
 
@@ -40,4 +40,4 @@ Feel free to suggest improvements and open a pull request if you want to get inv
 
 ## Acknowledgments
 
-All pictures are royalty-free and have been taken from [Unsplash](https://unsplash.com).
+The portrait picture is of my own authorship.
