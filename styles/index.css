@@ -81,7 +81,7 @@ body {
 
 .project-grid {
     display: grid;
-    width: 80%;
+    width: 75%;
     margin: 0 auto;
     grid-template-columns: repeat(3, 1fr);
     /* border: solid 1px blue; */
@@ -94,10 +94,11 @@ body {
     /* background: var(--dark1); */
     /* border: solid 1px var(--dark1); */
     border-radius: .618rem;
-    width: 15rem;
+    width: 16rem;
     margin: 0 auto;
     padding: 1rem;    
     transition: all .3s ease-out;
+    
 }
 
 .project-grid--card:hover {
@@ -281,3 +282,39 @@ footer {
     margin-top: 150px;
 }
 }
+
+@media (min-width: 1800px) {
+    .project-grid {
+        max-width: 70rem;
+    }
+    
+    .project-grid--card {
+        /* border: solid 1px var(--green); */
+        width: 18rem;
+        padding: 1rem;    
+    }
+}
+
+@media (min-height: 1200px) {
+    .home {
+        min-height: 50vh;
+    }
+    
+    .projects {
+        min-height: 50vh;
+    }
+    
+    .about {
+        min-height: 50vh;
+    }
+    
+    .contact {
+        min-height: 40vh;
+    }
+    
+    .footer {
+        min-height: 10vh;
+    }
+}
+
+
